@@ -5,3 +5,4 @@ In this repository I have wrote bunch of assignments
 1. Data Cleaning Assignment
 2. Numpy Assignment
 3. Data Visulization
+4. Matplotlib 
